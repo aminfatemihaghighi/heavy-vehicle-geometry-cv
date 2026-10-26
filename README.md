@@ -7,8 +7,8 @@ This repository contains a monocular, physics-based computer vision pipeline tha
 real-world metric accuracy without the need for LiDAR or stereo cameras.
 
 ### 📸 Visual Demo
-![Semi-Trailer Classification](docs/demo_semi_trailer.jpg)
-![Multi-Vehicle Tracking](docs/demo_multi_tracking.jpg)
+![Semi-Trailer Classification](docs/demo_semi_trailer.jpg?v=2)
+![Multi-Vehicle Tracking](docs/demo_multi_tracking.jpg?v=2)
 
 > **Note:** This repository is a sanitized version of my Master's Thesis project, completed in collaboration with South Engineering srl and the University of Naples Federico II. Proprietary video data and custom-trained weights have been excluded.
 
