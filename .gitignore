@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Machine Learning Weights & Matrices
+*.pt
+*.pth
+*.onnx
+*.npy
+*.pkl
+
+# Data & Videos (IP Protection)
+*.mp4
+*.avi
+*.mov
+*.mkv
+sample_data/*.mp4
+data/
+runs/
+wandb/
+checkpoints/
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+demo_env/
