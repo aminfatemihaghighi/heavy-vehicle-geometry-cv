@@ -3,7 +3,12 @@
 ## 📌 Overview
 Standard 2D object detectors (like YOLO) are excellent at finding bounding boxes, but they lack physical scale—a truck 100 meters away looks identical to a car 20 meters away. 
 
-This repository contains a monocular, physics-based computer vision pipeline that measures the real-world width and height of vehicle rear faces to accurately classify heavy vehicles (vans, buses, trucks, semi-trailers). By combining deep learning segmentation with classical homography, we achieve real-world metric accuracy without the need for LiDAR or stereo cameras.
+This repository contains a monocular, physics-based computer vision pipeline that measures the real-world width and height of vehicle rear faces to accurately classify heavy vehicles (vans, buses, trucks, semi-trailers). By combining deep learning segmentation with classical homography, we achieve 
+real-world metric accuracy without the need for LiDAR or stereo cameras.
+
+### 📸 Visual Demo
+![Semi-Trailer Classification](docs/demo_semi_trailer.jpg)
+![Multi-Vehicle Tracking](docs/demo_multi_tracking.jpg)
 
 > **Note:** This repository is a sanitized version of my Master's Thesis project, completed in collaboration with South Engineering srl and the University of Naples Federico II. Proprietary video data and custom-trained weights have been excluded.
 
