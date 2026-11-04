@@ -7,7 +7,7 @@ This repository contains a monocular, physics-based computer vision pipeline tha
 real-world metric accuracy without the need for LiDAR or stereo cameras.
 
 ### 📸 Visual Demo
-![Real-time Tracking Demo](demo.gif)
+![Real-time Tracking Demo](docs/demo.gif)
 
 > **Note:** This repository is a sanitized version of my Master's Thesis project, completed in collaboration with South Engineering srl and the University of Naples Federico II. Proprietary video data and custom-trained weights have been excluded.
 
